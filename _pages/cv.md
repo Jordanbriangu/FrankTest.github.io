@@ -84,7 +84,7 @@ Refereed Journal Papers
 [29]Lu, L., Gu, Z., Huang, D., Liu, Z.*, Chen, J., 2017. An evaluation framework for the public information guidance system. KSCE Journal of Civil Engineering. 21(5), 1919-1928.
 [30]Gu, Z., Liu, Z.*, Shiwakoti, N., Yang, M., 2016. Video-based analysis of school students’ emergency evacuation behavior in earthquakes. International Journal of Disaster Risk Reduction 18, 1-11.
 [31]Zhao, X., Wang, D., Yan, Y.*, Gu, Z., 2015. Stochastic simulation on system reliability and component probabilistic importance of road network. Mathematical Problems in Engineering, 456485.
-  <ul>{% for post in site.publications %}
+  <ul>{[% for post in site.publications %](https://www.sciencedirect.com/science/article/pii/S1361920923003619#:~:text=Vehicle%20arrangement%20in%20a%20mixed,follower%20AV%20produces%20more%20emissions.)}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
