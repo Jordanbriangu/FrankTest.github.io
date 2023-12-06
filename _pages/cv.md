@@ -43,8 +43,10 @@ Publications
 ======
 Refereed Journal Papers
 
-[1]Alhariqi, A., Gu, Z., Saberi, M.*, 2023. Impact of vehicle arrangement in mixed autonomy traffic on emissions. Transportation Research Part D: Transport and Environment 125, 103964.
+[1]Alhariqi, A., Gu, Z., Saberi, M.*, 2023.  <a href="https://www.sciencedirect.com/science/article/pii/S1361920923003619#:~:text=Vehicle%20arrangement%20in%20a%20mixed,follower%20AV%20produces%20more%20emissions">"Impact of vehicle arrangement in mixed autonomy traffic on emissions.”</a> Transportation Research Part D: Transport and Environment 125, 103964.
 
+Lei, Mengying, Aurelie Labbe, and Lijun Sun. <a href="https://arxiv.org/abs/2208.09978">“Bayesian Complementary Kernelized Learning for Multidimensional Spatiotemporal Data.”</a>
+                                arXiv preprint arXiv:2208.09978 (2022).
 [2]Gu, Z., Li, Y., Saberi, M., Rashidi, T.H., Liu, Z.*, 2023. Macroscopic parking dynamics and equitable pricing: Integrating trip-based modeling with simulation-based robust optimization. Transportation Research Part B: Methodological 173, 354-381.
 
 [3]Gu, Z., Yang, X., Zhang, Q., Yu, W., Liu, Z.*, 2023. TERL: Two-Stage Ensemble Reinforcement Learning Paradigm for Large-Scale Decentralized Decision Making in Transportation Simulation. IEEE Transactions on Knowledge and Data Engineering, 1-14.
@@ -84,9 +86,7 @@ Refereed Journal Papers
 [29]Lu, L., Gu, Z., Huang, D., Liu, Z.*, Chen, J., 2017. An evaluation framework for the public information guidance system. KSCE Journal of Civil Engineering. 21(5), 1919-1928.
 [30]Gu, Z., Liu, Z.*, Shiwakoti, N., Yang, M., 2016. Video-based analysis of school students’ emergency evacuation behavior in earthquakes. International Journal of Disaster Risk Reduction 18, 1-11.
 [31]Zhao, X., Wang, D., Yan, Y.*, Gu, Z., 2015. Stochastic simulation on system reliability and component probabilistic importance of road network. Mathematical Problems in Engineering, 456485.
-  <ul>{[% for post in site.publications %](https://www.sciencedirect.com/science/article/pii/S1361920923003619#:~:text=Vehicle%20arrangement%20in%20a%20mixed,follower%20AV%20produces%20more%20emissions.)}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
 Talks
 ======
