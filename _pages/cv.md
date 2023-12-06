@@ -42,16 +42,27 @@ Skills
 Publications
 ======
 Refereed Journal Papers
+
 [1]Alhariqi, A., Gu, Z., Saberi, M.*, 2023. Impact of vehicle arrangement in mixed autonomy traffic on emissions. Transportation Research Part D: Transport and Environment 125, 103964.
+
 [2]Gu, Z., Li, Y., Saberi, M., Rashidi, T.H., Liu, Z.*, 2023. Macroscopic parking dynamics and equitable pricing: Integrating trip-based modeling with simulation-based robust optimization. Transportation Research Part B: Methodological 173, 354-381.
+
 [3]Gu, Z., Yang, X., Zhang, Q., Yu, W., Liu, Z.*, 2023. TERL: Two-Stage Ensemble Reinforcement Learning Paradigm for Large-Scale Decentralized Decision Making in Transportation Simulation. IEEE Transactions on Knowledge and Data Engineering, 1-14.
+
 [4]Shi, Y., Gu, Z.*, Yang, X., Li, Y., Chu, Z. 2023. An Adaptive Route Guidance Model Considering the Effect of Traffic Signals Based on Deep Reinforcement Learning. IEEE Intelligent Transportation Systems Magazine, 2-15.
+
 [5]Wang, Z., Shi, Y., Tong, W., Gu, Z., Cheng, Q.*. 2023. Car-following Models for Human-driven Vehicles and Autonomous Vehicles: A Systematic Review. ASCE Journal of Transportation Engineering: Part A 149(8), 04023075.
+
 [6]Chen, Y., Gu, Z., Zheng, N., Vu, H.L.*, 2023. Optimal coordinated congestion pricing for multiple regions: a surrogate-based approach. Transportation.
+
 [7]Shafiei, S.*, Gu, Z., Grzybowska, H., Cai, C., 2023. Impact of self-parking autonomous vehicles on urban traffic congestion. Transportation 50, 183-203.
+
 [8]Gu, Z., Wang, Z., Liu, Z., Saberi, M.*, 2022. Network traffic instability with automated driving and cooperative merging. Transportation Research Part C: Emerging Technologies 138, 103626.
+
 [9]Mansourianfar, M.H., Gu, Z., Saberi, M.*, 2022. Distance-based time-dependent optimal ratio control scheme (TORCS) in congested mixed autonomy networks. Transportation Research Part C: Emerging Technologies 141, 103760.
+
 [10]Alhariqi, A., Gu, Z., Saberi, M.*, 2022. Calibration of the intelligent driver model (IDM) with adaptive parameters for mixed autonomy traffic using experimental trajectory data. Transportmetrica B: Transport Dynamics 10(1), 421-440.
+
 [11]Zhang, J., Wu, W., Cheng, Q.*, Tong, W.*, Khadka, A., Fu, X., Gu, Z., 2022. Extracting the Complete Travel Trajectory of Subway Passengers Based on Mobile Phone Data. Journal of Advanced Transportation, 8151520.
 [12]Chen, Y.*, Zhang, Y., Gu, Z., 2022. Differential Congestion Pricing Strategies for Heterogeneous Users in the Mixed Traffic Condition. Journal of Advanced Transportation, 1829104.
 [13]Nourmohammadi, Z., Lilasathapornkit, T., Ashfaq, M., Gu, Z., Saberi, M.*, 2022. Mapping Urban Environmental Performance with Emerging Data Sources: A Case of Urban Greenery and Traffic Noise in Sydney, Australia. Sustainability 13(2), 605.
